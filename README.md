@@ -1,4 +1,4 @@
-# Agents# Agents
+# Agents
 
 ## Introduction
 This guide is for students who want to learn about agents, SmolAgents, LlamaIndex, and LangChain agents. We'll cover the basics and provide a brief overview of each topic in simple English.
